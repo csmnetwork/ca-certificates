@@ -4,12 +4,15 @@ Welcome to the official repository for our public certificates. Here you can fin
 
 ---
 
-## Available Certificates
+## Available Root CA Certificates
 
 ### Consortium Network Root CA
 - [Public Certificate](https://pki.csm.network/root-ca/root-ca.cer): Valid from `01 JANUARY 2025 00:00:00 UTC` until `31 DECEMBER 2034 23:59:59 UTC`.
 - [Revocation List](https://pki.csm.network/root-ca/root-crl.pem): Valid from `01 JANUARY 2025 00:00:00 UTC` until `31 MARCH 2025 23:59:59 UTC`.
 - [Serial Number](https://pki.csm.network/root-ca/root-ca.sn): `092624116BFA24AC`
+
+## Available Intermediate CA Certificates
+> Note: These certificates should NOT be installed in your system unless in exceptional circumstances.
 
 ### Consortium Network Code-Signing CA
 - [Public Certificate](https://pki.csm.network/codesigning-ca/codesigning-ca.cer) Valid from `01 JANUARY 2025 00:00:00 UTC` until `31 DECEMBER 2027 23:59:59 UTC`.
