@@ -1,6 +1,6 @@
 # Consortium Certification Authority Certificates
 
-Welcome to the official repository for our public certificates. Here you can find and download our up-to-date certificates, along with their revocation lists, and thumbprints. These certificates are intended primarily for **private use**. They are not trusted by default in most operating systems or browsers, and are **not** designed to compete with any commercial certificate authorities or public trust frameworks.
+Welcome to the official repository for our public certificates. Here you can find and download our up-to-date certificates, along with their revocation lists, and serial numbers. These certificates are intended primarily for **private use**. They are not trusted by default in most operating systems or browsers, and are **not** designed to compete with any commercial certificate authorities or public trust frameworks.
 
 ---
 
